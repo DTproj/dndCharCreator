@@ -1,0 +1,10 @@
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\bin\Debug\dndCharCreator.exe.config
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\bin\Debug\dndCharCreator.exe
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\bin\Debug\dndCharCreator.pdb
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\obj\Debug\dndCharCreator.csprojResolveAssemblyReference.cache
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\obj\Debug\dndCharCreator.MainForm.resources
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\obj\Debug\dndCharCreator.csproj.GenerateResource.Cache
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\obj\Debug\dndCharCreator.exe
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\obj\Debug\dndCharCreator.pdb
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\obj\Debug\dndCharCreator.chInfoForm.resources
+C:\Users\Dorian\Documents\SharpDevelop Projects\dndCharCreator\dndCharCreator\obj\Debug\dndCharCreator.statSwitchForm.resources
