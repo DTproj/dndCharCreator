@@ -143,82 +143,66 @@ namespace dndCharCreator
 			for(i=0; i<6; i++){
 				
 				if(rStats[i] == 1){
-					mods[i] = "-5";
 					numericMod[i] = -5;
 				}
 				
 				else if(rStats[i] == 2 || rStats[i] == 3){
-					mods[i] = "-4";
 					numericMod[i] = -4;
 				}
 				
 				else if(rStats[i] == 4 || rStats[i] == 5){
-					mods[i] = "-3";
 					numericMod[i] = -3;
 				}
 				
 				else if(rStats[i] == 6 || rStats[i] == 7){
-					mods[i] = "-2";
 					numericMod[i] = -2;
 				}
 				
 				else if(rStats[i] == 8 || rStats[i] == 9){
-					mods[i] = "-1";
 					numericMod[i] = -1;
 				}
 				
 				else if(rStats[i] == 10 || rStats[i] == 11){
-					mods[i] = "0";
 					numericMod[i] = 0;
 				}
 				
 				else if(rStats[i] == 12 || rStats[i] == 13){
-					mods[i] = "+1";
 					numericMod[i] = 1;
 				}
 				
 				else if(rStats[i] == 14 || rStats[i] == 15){
-					mods[i] = "+2";
 					numericMod[i] = 2;
 				}
 				
 				else if(rStats[i] == 16 || rStats[i] == 17){
-					mods[i] = "+3";
 					numericMod[i] = 3;
 				}
 				
 				else if(rStats[i] == 18 || rStats[i] == 19){
-					mods[i] = "+4";
 					numericMod[i] = 4;
 				}
 				
 				else if(rStats[i] == 20 || rStats[i] == 21){
-					mods[i] = "+5";
 					numericMod[i] = 5;
 				}
 				
 				else if(rStats[i] == 22 || rStats[i] == 23){
-					mods[i] = "+6";
 					numericMod[i] = 6;
 				}
 				
 				else if(rStats[i] == 24 || rStats[i] == 25){
-					mods[i] = "+7";
 					numericMod[i] = 7;
 				}
 				
 				else if(rStats[i] == 26 || rStats[i] == 27){
-					mods[i] = "+8";
 					numericMod[i] = 8;
 				}
 				
 				else if(rStats[i] == 28 || rStats[i] == 29){
-					mods[i] = "+9";
 					numericMod[i] = 9;
 				}
 				
 				else if(rStats[i] == 30){
-					mods[i] = "+10";
 					numericMod[i] = 10;
 				}
 			}
